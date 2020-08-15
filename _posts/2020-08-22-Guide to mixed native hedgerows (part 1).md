@@ -3,7 +3,7 @@ layout: post
 
 <h1><img src="/assets/images/tree-100.JPG" style="vertical-align: middle;" width="100px"/><span style="vertical-align: middle;">Guide to Mixed Native Hedgerows</span></h1>
 
-<! title: "Guide to Mixed Native Hedgerows (Part 1)" -->
+title: "Guide to Mixed Native Hedgerows (Part 1)"
 
 <img src="/assets/images/nativehedge1-100.JPG" style="vertical-align: middle;" width="100px"/>
 <span style="vertical-align: middle;">Guide to Mixed Native Hedgerows (Part 1)</span>
