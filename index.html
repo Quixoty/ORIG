@@ -6,4 +6,15 @@ title: Landscape Design Tips
 	<h1>Landscape Design Tips</h1>
 	<hr style="border: 1px solid #d5d5d5;" />
 	<p>This site is currently under construction <a href="/about">Placeholder text</a></p>
+
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>	
+	
+	
+	
 </div><!-- /.blurb -->
