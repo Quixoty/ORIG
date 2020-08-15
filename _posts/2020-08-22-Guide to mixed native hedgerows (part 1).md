@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <img src="/assets/images/nativehedge1-100.JPG" alt="hi" class="inline"/> "Guide to Mixed Native Hedgerows (Part 1)"
+title: <img src="/assets/images/nativehedge1-100.JPG" alt="hi" class="inline" style="vertical-align: middle;" width="100px"/><span style="vertical-align: middle;">Here is some text.</span> "Guide to Mixed Native Hedgerows (Part 1)"
 date: 2020-08-22
 ---
 
