@@ -8,12 +8,12 @@ title: Landscape Design Tips
 	<p></p>
 	<p>Welcome to Landscape Design Tips. Here I shall try to provide a clear set of guides for those designing outdoor spaces. numerous areas, including gardens, open spaces, playareas.</p>
 	<p>I shall try to regular posts when I can.</p>
-	<p><ul class="posts">
+	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><p><span>{{ post.date | date_to_string }}</span></p> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
-	</ul></p>	
+	</ul>	
 	
 	
 	
