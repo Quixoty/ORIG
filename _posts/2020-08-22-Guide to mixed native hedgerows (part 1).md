@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Guide to Mixed Native Hedgerows (Part 1)"
+title: "Guide to Mixed Native Hedgerows (Party)"
 
 
 date: 2020-08-22
