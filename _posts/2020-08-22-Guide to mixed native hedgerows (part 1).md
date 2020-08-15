@@ -1,7 +1,8 @@
 ---
 layout: post
+title: "Guide to Mixed Native Hedgerows (Part 1)"
 <img src="/assets/images/nativehedge1-100.JPG" style="vertical-align: middle;" width="100px"/>
-<span style="vertical-align: middle;">title: "Guide to Mixed Native Hedgerows (Part 1)"</span>
+<span style="vertical-align: middle;">Guide to Mixed Native Hedgerows (Part 1)</span>
 
 date: 2020-08-22
 ---
