@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Landscape Design Tips"
+title: "Guide to Mixed Native Hedgerows"
 
 
 date: 2020-08-22
