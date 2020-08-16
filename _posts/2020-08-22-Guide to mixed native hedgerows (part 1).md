@@ -1,6 +1,6 @@
 ---
 layout: post
-
+picture: /assets/images/nativehedge1-100.JPG
 title: "Guide to Mixed Native Hedgerows (Part 1)"
 date: 2020-08-22
 ---
